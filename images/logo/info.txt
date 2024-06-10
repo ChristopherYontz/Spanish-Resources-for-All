@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: SixCaps
+font link: https://www.fontsquirrel.com/fonts/six-caps
+font author: Vernon Adams
+font author site: https://www.behance.net/vernonadams
+Slogan Font: Questrial-Regular.otf
+
+icon designer: Simon Child
+icon designer link: /Simon Child
+        
+{"bg":"#F0B591","font":"#ffffff","icon":"#ED7884","slogan":"#ffffff"}
+      
